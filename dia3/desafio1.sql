@@ -54,5 +54,5 @@ LIMIT 2;
 --Dos clientes de la misma empresa
 SELECT nombre, empresa
 FROM clientes
-WHERE empresa = 'Empresa A'
+WHERE empresa = 'SOL'
 LIMIT 2;
